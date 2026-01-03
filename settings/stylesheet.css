@@ -1,7 +1,7 @@
 .elementButton { /* Botão de elementos, classe utilizada na tabela periódica */
   background-color: #FFFFFF;
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
 }
 .elementButton:hover { /* Cor do Botão de Elemento ao ter o cursor do mouse posicionado em cima */
   background-color: #F000FF;
@@ -14,5 +14,5 @@ h1 { /* Editando a tag h1 para todo o site */
 
 h2 { /* Editando a tag h2 para todo o site */
   text-align: center;
-  font-weight: italic;
+  font-style: italic;
 }
