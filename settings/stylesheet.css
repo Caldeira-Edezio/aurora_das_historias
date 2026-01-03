@@ -1,3 +1,19 @@
 .elementButton {
   background-color: #FFFFFF;
 }
+.elementButton:hover {
+  background-color: #F5F5F5;
+}
+
+.header {
+  text-align: center;
+  font-weight: bold;
+}
+
+.mainHeader {
+  color: #FF0000;
+}
+
+.secHeader {
+  color: #0000FF;
+}
