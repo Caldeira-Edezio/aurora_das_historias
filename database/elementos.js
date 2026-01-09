@@ -1,5 +1,3 @@
-const data = '{"elementosMundanos"[' +
-        '{"numeroAtomico":1,"nome":"Hidrogênio"},' +
-        '{"numeroAtomico":2,"nome":"Hélio"}]}';
+const data = '{"elementosMundanos"[{"numeroAtomico":,"nome":,"simboloAtomico":,"massaMolar":,"classe":,"pontoFusao":,"pontoEvaporacao":,"tipoMagnetico":,"tipoMagico":,"radioatividade":},{"numeroAtomico":,"nome":,"simboloAtomico":,"massaMolar":,"classe":,"pontoFusao":,"pontoEvaporacao":,"tipoMagnetico":,"tipoMagico":,"radioatividade":}]}';
 const elementos = JSON.parse(data);
 export default elementos;
