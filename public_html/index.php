@@ -10,7 +10,6 @@ session_start();
 	<body>
 		<h1>Página inicial do Site Aurora das Histórias</h1>
 		<p></p>
-		<my-navbar></my-navbar>
 		<table border="1", style="width:100%,margin:auto,textAlign:center,border:1px,borderSpacing:1px,borderStyle:solid">
 			<th><a hrfe="./modules/home.html">Home</a></th>
 			<th><a hrfe="./modules/workd.html">Cenário</a></th>
